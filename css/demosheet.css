@@ -1,11 +1,11 @@
 body {
-  background: #f3d334;
-  color: #c236a6;
+  background: #e387e8;
+  color: #ecc85c;
 }
 
 .container {
-  width: 90%;
+  width: 85%;
   margin: auto;
-  background-color: pink;
-  border: 1px solid burlywood;
+  background-color: white;
+  border: 1px solid black;
 }
