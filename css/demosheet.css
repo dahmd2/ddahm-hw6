@@ -1,0 +1,11 @@
+body {
+  background: #f5f5fa;
+  color: #1f1f29;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  background-color: pink;
+  border: 1px solid burlywood;
+}
