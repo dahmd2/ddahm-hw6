@@ -1,6 +1,11 @@
 body {
+<<<<<<< HEAD
   background: #e387e8;
   color: #ecc85c;
+=======
+  background: #f5f5fa;
+  color: #1f1f29;
+>>>>>>> new_feature_branch
 }
 
 .container {
